@@ -32,4 +32,4 @@ jobs:
           curl -X POST \
           -H "Authorization: Bearer $RENDER_API_KEY" \
           -H "Content-Type: application/json" \
-          https://api.render.com/v1/services/<TU_SEsrv-d4t37mpr0fns73d43bv0>/deploys
+          https://api.render.com/v1/services/srv-d4t37mpr0fns73d43bv0/deploys
